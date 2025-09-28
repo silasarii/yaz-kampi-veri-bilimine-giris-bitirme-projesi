@@ -6,8 +6,7 @@ Bu repository, **TechCareer Yaz Kampı: Veri Bilimine Giriş** eğitimi kapsamı
 
 Repo şu klasör ve dosyalardan oluşmaktadır:
 
-Decision_tree/
-│
+Decision_tree/ \n
 ├─ Decision_tree.ipynb  
 ├─ Decision_tree.py  
 ├─ dava_sonuclari.csv  
