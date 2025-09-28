@@ -7,18 +7,21 @@ Bu repository, **TechCareer Yaz Kampı: Veri Bilimine Giriş** eğitimi kapsamı
 Repo şu klasör ve dosyalardan oluşmaktadır:
 
 Decision_tree/
+│
 ├─ Decision_tree.ipynb  
 ├─ Decision_tree.py  
 ├─ dava_sonuclari.csv  
 ├─ ekran_goruntuleri/
 
 k_means_odev/
+│
 ├─ k_means_odev.ipynb  
 ├─ k_means_odev.py  
 ├─ dava.csv  
 ├─ ekran_goruntuleri/
 
 Veri_filtreleme_sıralama_projesi/
+│
 ├─ Veri_filtreleme_sıralama_projesi.ipynb  
 ├─ Veri_filtreleme_sıralama_projesi.py  
 ├─ Veri_filtreleme_sıralama_projesi.pdf  
@@ -26,6 +29,7 @@ Veri_filtreleme_sıralama_projesi/
 ├─ ekran_goruntuleri/
 
 Veri_Gorsellestirme_odevi/
+│
 ├─ Veri_Gorsellestirme_odevi.ipynb  
 ├─ Veri_Görsellestirme_odevi.py  
 ├─ Veri_Gorsellestirme_odevi.pdf  
