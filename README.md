@@ -60,8 +60,3 @@ Veri_Gorsellestirme_odevi/
 - **Çıktılar:** Grafikler, tablolar ve ekran görüntüleri.
 
 
-### 4. Veri Görselleştirme Ödevi
-- **Amaç:** Veri setlerini çeşitli grafikler ve görselleştirme teknikleri ile analiz etmek.
--  **Veri seti:** `50_Startups.csv`   
-- **Metodoloji:** Matplotlib, Seaborn ve Pandas ile veri görselleştirme, yorumlama ve analiz.  
-- **Çıktılar:** Grafikler, tablolar ve ekran görüntüleri.
